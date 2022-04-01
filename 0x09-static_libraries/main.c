@@ -1,4 +1,3 @@
- (6 sloc) 155 Bytes
 #include "main.h"
 
 int main(void)
