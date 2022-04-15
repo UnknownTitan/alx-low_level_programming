@@ -1,6 +1,6 @@
 /*
  *File: 1-print_numbers.c
- *Auth: Stephen Nii Armah Ayitiah 
+ *Auth: Stephen Nii Armah Ayitiah
  */
 
 #include "variadic_functions.h"
