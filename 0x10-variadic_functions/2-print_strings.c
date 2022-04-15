@@ -1,6 +1,6 @@
 /*
  *File: 1-print_numbers.c
- *Auth: Stephen Nii Armah Ayitiah 
+ *Auth: Stephen Nii Armah Ayitiah
  */
 
 #include "variadic_functions.h"
@@ -32,4 +32,3 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 
 	va_end(nums);
 }
-
